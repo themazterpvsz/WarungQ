@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WarungQ</string>
+    <string name="judul_activity_data">WarungQ : Data Barang</string>
+    <string name="judul_tambah_data">WarungQ : Tambah Data</string>
+    <string name="judul_lihat_data">WarungQ : Detail Data</string>
+    <string name="judul_update_data">WarungQ : Update Data</string>
+    <string name="namBar">Nama Barang</string>
+    <string name="jumBar">Jumlah Barang</string>
+    <string name="harBar">Harga Barang</string>
+    <string name="judul_activity_laporan">WarungQ : Laporan Keuangan</string>
+    <string name="judul_tambah_laporan">WarungQ : Tambah Laporan</string>
+    <string name="judul_lihat_laporan">WarungQ : Detail Laporan</string>
+    <string name="judul_update_laporan">WarungQ : Update Laporan</string>
+    <string name="jenLap">Jenis Laporan</string>
+    <string name="totLap">Nominal</string>
+    <string name="ketLap">Keterangan Laporan</string>
+    <string-array name="kataBijak">
+        <item>Jangan mengeluh di hadapan pelanggan apalagi menunjukkan emosi yang negatif.</item>
+        <item>Biar sedikit dan lambat asal selamat.</item>
+        <item>Pedagang harus memiliki daya tahan, mental, dan jiwa yang kuat.</item>
+        <item>Kerugian jangka pendek merupakan jalan yang dilalui untuk mendapatkan keuntungan jangka panjang.</item>
+        <item>Pedagang tidak boleh terlalu kaku. Namun sebaliknya, perlu memperbolehkan proses tawar-menawar</item>
+        <item>Kesabaran itu memang pahit, tetapi buahnya sangat manis.</item>
+        <item>Perjalanan seribu batu dimulai dengan langkah pertama.</item>
+        <item>Tahukah anda ? 85% kesuksesan karena sikap Positif dan 15% karena Kepandaiannya.</item>
+        <item>Jika ingin sukses, HARUS siap untuk DIUJI dan DIPROSES</item>
+        <item>Agar keuntungan terus bertambah, sebagian dari keuntungan harus disalurkan kepada mereka yang memerlukan</item>
+    </string-array>
+    <string-array name="jenisLap">
+        <item>Laporan Pengeluaran</item>
+        <item>Laporan Pemasukkan</item>
+    </string-array>
+</resources>

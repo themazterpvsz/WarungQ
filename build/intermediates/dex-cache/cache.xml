@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/8549386220d30a36eb883b3d3f9c40c38940d846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_e78995a4eb5f9831bad9216f11d54bca034f0ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/097ad32bba77d03fe87717dc5e8fe26fabaa0305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_d4442822ed69668e69d3e81787b926e311b6de13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/b72fb077372632cfcb76a8f89ae74d36d6199d85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_1df12f1106a2c53c714218c1767a488108f56ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/704d41c5fda185dbf71d2d22feda32f6555aa33a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_4ecce1e469a90623ad26ac5eaf33ddabe5cb535e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/8f2386bbfd74b2a6653a8852b019374e5f07754a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_2848c0d2c4cc70876d1ec17bee2552d3801c7541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c4f67cf171b7c20264937a8eae5f1b61cd404064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/1a183ca6a6fa0a49bf2512f48f79a9f9ca1e5d5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_892e188ecb02db05b1137d5efda5fd2d46986fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/1b2d9769ef715fab23909869a3a322536aabd3ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_6338b3f563846889e70d252bd66d7028621359bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/8d6131fe67441b379fdbea9335d356183c2c3e59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_88777353714483ab9d21777b68b201435dba505f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/83db1b6e082a410084e459ef9b4913f85470a546/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_385ff3b2e263c415dc5670ef9e29fff0950ea4c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/ad8faf7fc82327e2fdefa006054ff086911bb574/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_ad6d1783b3724221e0e4be98634734e6288f3321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/a17473317482ac964b6aee48a70ef3f3f759c9a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_d604c502530f9d3092497a91a7c7e6d0a6beeb8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/9716337ac5788b2304368dcab16ae598cfd12775/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_0ddf080201628d62059cdd0b221e49d06128c5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_45a240dbefa96d88bb77baad9b1261f739a59688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asus/.android/build-cache/17d4dd682286fd93d03e315c3596edbec88dc7c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/asus/Downloads/WarungQ2/app/build/intermediates/pre-dexed/debug/classes_4a10a185140002f2f6ad097febfddbd33b45edc5.jar" />
+    </item>
+
+</items>
